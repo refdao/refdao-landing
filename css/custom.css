@@ -1,0 +1,8 @@
+.bg-primary {
+  --bs-bg-opacity: 1;
+  background-color: #ff5925 !important;
+}
+
+.page-section .page-section-heading {
+  line-height: 4rem;
+}
